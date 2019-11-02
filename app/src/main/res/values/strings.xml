@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" translatable="false">Raja Mantan</string>
+    <string name="sosmed" translatable="false">have_fahn</string>
+    <string name="location">Gang Bidan no.93, Cipadung</string>
+    <string name="nomor" translatable="false">085811680873</string>
+
+    //menu
+    <string name="profile">Info Developer</string>
+    <string name="language">Bahasa</string>
+
+    //Tampilan
+    <string name="nama">Nama :</string>
+    <string name="asal">Asal :</string>
+    <string name="keahlian">Keahlian :</string>
+
+    //Keahlian
+    <string name="bela_diri">Bela Diri</string>
+    <string name="bela_umat">Bela Umat</string>
+    <string name="memasak">Memasak</string>
+    <string name="bernyanyi">Bernyanyi</string>
+    <string name="berlari">Berlari</string>
+    <string name="menghisap">Menghisap</string>
+    <string name="memakan">Memakan</string>
+    <string name="jajan">Jajan</string>
+    <string name="belanja">Belanja</string>
+    <string name="marah_marah">Marah - Marah</string>
+    <string name="memeluk">Memeluk</string>
+    <string name="mutusin">Mutusin</string>
+
+    //Deskripsi
+    <string name="foto1">Awal ketemu dia di kampus, asli orang lampung, orangnya baik banget lah pokoknya. Hubungan kita kandas karena ada orang ketiga </string>
+    <string name="foto2">Ketemu pas lagi aksi bela umat, dia anggun, kuat, dan bersahaja. Hubungan kita kandas karena aku belum bisa menikahi dia secepatnya</string>
+    <string name="foto3">Cantiknya mengalihkan duniaku, dari dunia nyata menjadi dunia tidak nyata. seperti hubungan kita yang ternyata tidak nyata lamanya</string>
+    <string name="foto4">Suka banget sama suaranya, sayangnya kalau tidur ngorok, pernah lagi video call, dia ketiduran malah ngorok. hubungan kita kandas</string>
+    <string name="foto5">Atletis, Binaragawati, kuat, dialah orangnya. tapi karena dia terlalu menyepelekan saya, saya putusin dia.</string>
+    <string name="foto6">Dia suka banget sama buah buahan, apalagi pisang, suka banget menghisap pisang. hubungan kita kandas karena saya ga bisa ngasih pisang setiap hari</string>
+    <string name="foto7">Jagoannya makanan, apa aja dimakanin, tapi anehnya ga pernah gemuk. kaya saya, selalu langsing, selangsing hubungan kita</string>
+    <string name="foto8">Doyannya jajan, susah buat disuruh makan berat, penyakitan. Hubungan kita kandas, karena dia penyakitan</string>
+    <string name="foto9">Ahh parah sekali punya hubungan sama makhluk ini,  doyan shopping, dompet saya ga kuat. Hubungan kita kandas, dia lebih memilih orang kaya hasil riba</string>
+    <string name="foto10">Orangnya emosional, kadang mudah nangis, kadang mudah marah, saya gakuat kalau dia lagi marah, bawaannya pengen putus, yaudah saya putusin aja</string>
+    <string name="foto11">Hubungan kita kandas lah pokoknya capek hati, siapa aja dia peluk</string>
+    <string name="foto12">Baru 1 minggu udah diputusin, katanya suka suka dia aja</string>
+</resources>

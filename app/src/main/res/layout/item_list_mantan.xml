@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="8dp"
+    android:elevation="5dp"
+    android:outlineSpotShadowColor="@color/colorAccent"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/img_movie"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/d_weigel" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/namanya"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:fontFamily="@font/please_me"
+                        android:textStyle="bold"
+                        android:text="@string/nama"
+                        android:textSize="25sp"/>
+
+                    <TextView
+                        android:id="@+id/txt_name_mantan"
+                        android:textStyle="bold"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:fontFamily="@font/please_me"
+                        android:text="Nama Mantan"
+                        android:textSize="25sp" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/txt_asal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/please_me"
+                    android:layout_marginTop="8dp"
+                    android:textSize="18sp"
+                    android:text="Asal Mantan" />
+
+                <TextView
+                    android:id="@+id/txt_keahlian"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/please_me"
+                    android:textSize="18sp"
+                    android:text="Keahlian Mantan" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
